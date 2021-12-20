@@ -8,7 +8,7 @@
 <br>
 
 
-My name is Taha. I am a 21 year old software engineering student from Beni Suef, Egypt. I have a passion for learning and building websites, I always learn new things.
+I am a 21 year old software engineering student from Beni Suef, Egypt. I have a passion for learning and building websites, I always learn new things.
 
 <br>
 
@@ -37,7 +37,7 @@ My name is Taha. I am a 21 year old software engineering student from Beni Suef,
                                                                tahamahmoudx417@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-mahmoud37&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-mahmoud37&count_private=true&theme=material-palenight)
 
 
 
