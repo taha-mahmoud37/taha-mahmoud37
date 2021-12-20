@@ -26,16 +26,20 @@ My name is Taha. I am a 21 year old software engineering student from Beni Suef,
 
 
 🗓️ Currently I hame some interested with data analysis and backend.
+<br>
 
 
-                                                                       ☎️ Contact ME
+- 💬 Ask me about anything you want and do not shy
+<br>
+
+                                                                   ☎️ Contact ME
                                                                   
-                                                                       +20-01144638034
-                                                                   tahamahmoudx417@gmail.com
+                                                                   +20-01144638034
+                                                               tahamahmoudx417@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-mahmoud37&count_private=true)
 
 
-- 💬 Ask me about ...
+
 
