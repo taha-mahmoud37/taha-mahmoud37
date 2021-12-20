@@ -27,8 +27,9 @@ My name is Taha. I am a 21 year old software engineering student from Beni Suef,
 <br>
 
 
-- 💬 Ask me about anything you want and do not shy
+💬 Ask me about anything you want and do not shy
 <br>
+
 
                                                                    ☎️ Contact ME
                                                                   
