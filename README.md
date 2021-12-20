@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**taha-mahmoud37/taha-mahmoud37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+### Hi there 👋, I am TAHA!
+
+<br>
+<br>
+
+
+My name is Taha. I am a 21 year old software engineering student from Beni Suef, Egypt. I have a passion for learning and building websites, I always learn new things.
+
+<br>
+<br>
+
+
+
+
+🖥️ Front-End: Html, Html5, CSS, CSSpreprocessor Scss, Bootstrap, Webpack, JavaScript, jQuery, Angular.
+<br>
+
+
+⌨️ I have some skills with some programming language like, python and c.
+<br>
+
+
+🗓️ Currently I hame some interested with data analysis and backend.
+
+
+                                                                       ☎️ Contact ME
+                                                                  
+                                                                       +20-01144638034
+                                                                   tahamahmoudx417@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-mahmoud37&count_private=true)
+
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
