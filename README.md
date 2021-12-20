@@ -6,12 +6,10 @@
 ### Hi there 👋, I am TAHA!
 
 <br>
-<br>
 
 
 My name is Taha. I am a 21 year old software engineering student from Beni Suef, Egypt. I have a passion for learning and building websites, I always learn new things.
 
-<br>
 <br>
 
 
