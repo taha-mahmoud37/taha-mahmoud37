@@ -23,7 +23,7 @@ I am a 21 year old software engineering student from Beni Suef, Egypt. I have a 
 <br>
 
 
-🗓️ Currently I hame some interested with data analysis and backend.
+🗓️ Currently I have some interested with data analysis and backend.
 <br>
 
 
